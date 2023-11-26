@@ -1134,3 +1134,33 @@ footer {
   padding-block: 23.5px 46px;
 }
 }
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container .content .left-side {
+  padding-top: 100px;
+  width: 25%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  position: relative;
+}
+.topic1{
+  margin-top: 30px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.text-one{
+  margin-bottom: 5px;
+  text-align: center;
+}
+.topic2{
+  margin-bottom: 5px;
+  text-align: center;
+}
+
